@@ -1,0 +1,36 @@
+{
+  "name": "mq1ngBootstrapDialog",
+  "version": "0.3.9",
+  "description": "Modal for Angular.js applications using bootstrap modal template",
+  "main": [
+      "js/ngDialog.js"
+  ],
+  "keywords": [
+    "angular.js",
+    "modals",
+    "popups",
+    "dialog",
+    "ng",
+    "provider",
+    "factory",
+    "directive",
+    "bootstrap"
+  ],
+  "authors": [
+    "Dmitri Voronianski, Ruslan Porchinskiy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example",
+    "css/myth",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": "~1"
+  }
+}
